@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | 21104410019 |
+| Nama Lengkap | KHARISMATUL YOGI NAFI'AH |
 | Kelas | TI-4A |
